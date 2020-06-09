@@ -1161,6 +1161,7 @@ body {
   .overview-box {
     .description {
        margin-top: 40px;
+       white-space: pre-wrap;
     }
 
      // Stylize services summary.
