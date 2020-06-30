@@ -788,11 +788,13 @@ body {
         padding: 10px;
 
         .featured_location_tag {
-          font-size: 12px;
+          display: flex;
+          font-size: 20px;
           display: inline;
           font-family: $font_sans_serif;
           color: $purple;
           text-decoration: underline;
+          justify-content: center;
         }
 
         h1.name {
