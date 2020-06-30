@@ -790,7 +790,7 @@ body {
         .featured_location_tag {
           display: flex;
           font-size: 20px;
-          display: inline;
+          display: flex;
           font-family: $font_sans_serif;
           color: $purple;
           text-decoration: underline;
